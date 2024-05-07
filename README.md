@@ -1,6 +1,6 @@
  Hi, I’m Lawrence 👋
 
- <img src="https://github.com/LawrenceRadburn/LawrenceRadburn/assets/169159120/6b1c4b87-ff05-4f91-a9eb-56478f7d8c35" alt="banner that says Lawrence Radburn - web development student">
+ <img src="https://github.com/LawrenceRadburn/LawrenceRadburn/blob/main/gh-header-image.png" alt="banner that says Lawrence Radburn - web development student">
  I'm a web development student who is attending Algonquin College in Ottawa, ON Canada. Currently I am focusing on learning JavaScript. Additionally, I am comfortable using HTML and CSS. Other programs I have experience with include PHP, Python and MySQL
 
 ## Find me around the web 🌎:
