@@ -6,3 +6,6 @@
 ## Find me around the web 🌎:
 - Posting my web development journey on <a href="https://twitter.com/Lawrence_WebDev">Twitter</a>
 - Sharing updates on on <a href="https://www.linkedin.com/in/lawrenceradburn/">LinkedIn</a>
+
+### My Github Stats
+![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrenceradburn&hide=contribs,prs)
